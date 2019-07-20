@@ -1,4 +1,4 @@
-# app_test_api
+# Flutter Get Api With Redirect To Browser
 
 A new Flutter project.
 
